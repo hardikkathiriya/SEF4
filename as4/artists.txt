@@ -1,0 +1,4 @@
+556ABCDE@#,john morgon,15-11-1990,Melbourne|Victoria|Australia,hello my name is john and I am very good singer,Singer|producer,2022, Best Song of year,jazz,classic,reggae
+678OPQRS!@,kath smith,11-11-1995,Sydeny|Newsouthwales|Australia,good noon my name is max I am from sydeny and I am producer,producer|songwriter|actor,2022, Best actor in hollywood,disco,techno,kpop,folk
+895ABCDE*$,maxi, 05-11-2005 ,Brisbane|Queensland|Australia,hello my name is maxi and I am very good writer,singer|producer|photographer,2015,Best  hollywood,jazz,classic,reggage
+
